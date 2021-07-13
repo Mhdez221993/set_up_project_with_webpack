@@ -19,6 +19,8 @@ Go to `https://github.com/Mhdez221993/set_up_project_with_webpack`
 3. Run <code>git checkout -b your-branch-name</code>. Make your contributions.
 4. Push your branch up to your forked repository.
 5. `npm install`.
+5. `npm run build`.
+5. `npm run start`.
 
 
 
